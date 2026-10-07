@@ -1,0 +1,4 @@
+# API 키가 들어있는 파일은 절대 GitHub에 올리지 않는다
+.env
+__pycache__/
+venv/
